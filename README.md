@@ -18,4 +18,4 @@
 # Run
  1) Open ganache 
  2) run Truffle migrate
- 3) Run fronend by npm run start
+ 3) Run frontend by npm run start
